@@ -12,6 +12,6 @@
 * Belajar Dasar Git dengan GitHub
 * Telah menyelesaikan Modul Git dan GitHub
 * Telah menyelesaikan modul Dasar git
-* Progres modul sekarang adalah Studi Studi Kasus Pengalaman Belajar
-* Progres sekarang yaitu mencoba untuk me release Dokumentasi Progres STUPEN ini dan telah menyelesaikan modul Belajar Dasar Git dengan GitHub
-* Pogres yang sudah terselesaikan baru 44% dan masih berlanjut sampai ini dibuat.
+* Progres modul sekarang adalah Studi Kasus Pengalaman Belajar
+* Progres sekarang yaitu mencoba untuk me release Dokumentasi Progres STUPEN ini dan telah menyelesaikan modul Studi Studi Kasus Pengalaman Belajar
+* Pogres yang sudah terselesaikan baru 48% dan masih berlanjut sampai ini dibuat.
