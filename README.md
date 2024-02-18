@@ -22,3 +22,4 @@
 * Hari ini saya sedang belajar modul tentang Kolaborasi Dengan Tim (ini ditmbahkan dengan akun Collabolator)
 * dan ini ditambahakan dengan akun utama (admin)
 * Saya akan membuat 3 Commit yang nantinya akan dilakuka squash and merge, dan ini commit yang pertama
+* Dan ini Commit yang kedua
