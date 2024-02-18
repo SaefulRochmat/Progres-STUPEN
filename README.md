@@ -23,3 +23,4 @@
 * dan ini ditambahakan dengan akun utama (admin)
 * Saya akan membuat 3 Commit yang nantinya akan dilakuka squash and merge, dan ini commit yang pertama
 * Dan ini Commit yang kedua
+* Ini Commit yang ketiga, iya saya membuat 3 Commit ini menggunakan akun Collabolator yaa gess yaa
