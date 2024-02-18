@@ -13,5 +13,10 @@
 * Telah menyelesaikan Modul Git dan GitHub
 * Telah menyelesaikan modul Dasar git
 * Progres modul sekarang adalah Studi Kasus Pengalaman Belajar
-* Progres sekarang yaitu mencoba untuk me release Dokumentasi Progres STUPEN ini dan telah menyelesaikan modul Studi Studi Kasus Pengalaman Belajar
-* Pogres yang sudah terselesaikan baru 48% dan masih berlanjut sampai ini dibuat.
+* Progres sekarang yaitu mencoba untuk me release Dokumentasi Progres STUPEN ini dan telah menyelesaikan modul Studi Studi Kasus Pengalaman 
+  Belajar
+* Telah menyelesaikan modul Git Branches
+* Pogres yang sudah terselesaikan baru 61% dan masih berlanjut sampai ini dibuat.
+
+**18 Februari 2024**
+* Hari ini saya sedang belajar modul tentang Kolaborasi Dengan Tim
