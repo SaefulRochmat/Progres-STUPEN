@@ -19,4 +19,5 @@
 * Pogres yang sudah terselesaikan baru 61% dan masih berlanjut sampai ini dibuat.
 
 **18 Februari 2024**
-* Hari ini saya sedang belajar modul tentang Kolaborasi Dengan Tim
+* Hari ini saya sedang belajar modul tentang Kolaborasi Dengan Tim (ini ditmbahkan dengan akun Collabolator)
+* dan ini ditambahakan dengan akun utama (admin)
