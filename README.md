@@ -23,3 +23,4 @@
 * dan ini ditambahakan dengan akun utama (admin)
 * Saya akan melakukan Squash and merge, namun pertama tama saya harus membuat 3 commit, ini yang pertama
 * Ini Commit kedua ya gess yaa
+* Ini Commit yang ketiga ya gess yaa, oiya saya membuat commit ini menggunakan akun Collabolator ya gess yaa
